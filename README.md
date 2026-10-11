@@ -21,6 +21,25 @@ The hosted demo runs online. You can also run the application locally. Model res
 
 **Full step-by-step guide: [HOW_IT_WORKS.md](HOW_IT_WORKS.md)**
 
+## Problem statement and objectives
+
+Travel queries can express similar needs in different wording, making the traveller's intent difficult to identify automatically. The broader application motivation includes flight-information, baggage and reservation requests. **The evaluated benchmark in this project is ATIS airline-query intent classification**; baggage and reservation intents are not included in the reported model scores unless representative labelled data for those intents is supplied and evaluated.
+
+Project objectives:
+1. Prepare clean, leakage-safe training and held-out test data, checking duplicate queries, conflicting labels and train/test overlap.
+2. Normalize query text and represent it with TF-IDF word unigrams and bigrams.
+3. Compare Logistic Regression, Linear SVM and Multinomial Naive Bayes using stratified cross-validation on training data only.
+4. Evaluate the selected model on the held-out test split with accuracy, precision, recall, Macro-F1 and Weighted-F1.
+5. Analyse confusion patterns, rare-intent performance, confidence and examples of misclassification.
+6. Package the model and evidence in a verifiable run bundle for the Streamlit Studio.
+
+## Dataset and CSV files
+
+The primary benchmark is the [ATIS intent-classification dataset on Hugging Face](https://huggingface.co/datasets/pfsv/atis) (MIT License). The project CSV inputs are `data/raw/train_atis.csv` (4,978 raw rows) and `data/raw/test_atis.csv` (893 raw rows), with fields including `id`, `intent`, `text` and `ner`. After duplicate and train/test-overlap checks, the documented benchmark contains 4,623 training queries and 850 held-out test queries. The training split includes 22 intents; the test split contains 20. The “flight” intent forms 74.1% of the cleaned training set.
+
+The supplementary `hotel_booking_queries.csv`, `car_rental_queries.csv` and `train_rail_queries.csv` files are included to check that column detection and preprocessing work on other labelled CSV formats. They are **not** mixed into the ATIS benchmark used for the reported 95.4% accuracy and 0.683 Macro-F1.
+
+
 ## Quick start (Windows)
 1. Extract this ZIP (right-click → Extract All).
 2. Double-click `START.bat`, press `1`. The first run installs packages (2–5 minutes) and opens your browser.
