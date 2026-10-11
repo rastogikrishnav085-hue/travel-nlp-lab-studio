@@ -1,0 +1,5 @@
+# Extra packages only needed to TRAIN on this computer (menu options 2 and 3).
+-r requirements.txt
+matplotlib>=3.7,<4
+scikit-learn>=1.3,<2
+ipython>=8

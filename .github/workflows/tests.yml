@@ -1,0 +1,21 @@
+name: tests
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -r requirements-dev.txt playwright && python -m playwright install --with-deps chromium
+      - name: Backend and page tests
+        run: pytest -q
+      - name: Notebook runs end to end
+        run: python tools/run_notebook_local.py --atis
+      - name: Browser checks
+        run: |
+          streamlit run streamlit_app.py --server.port 8501 &
+          sleep 10
+          python tests/browser/ui_check.py http://127.0.0.1:8501

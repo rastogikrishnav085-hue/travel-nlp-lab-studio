@@ -1,0 +1,10 @@
+# Runtime for the Studio (viewing and verifying bundles). No cloud or AI services are used.
+# Tested with streamlit 1.65 and plotly 7.1.
+streamlit>=1.65,<2
+plotly>=6,<8
+fastapi>=0.110,<1
+uvicorn>=0.29,<1
+python-multipart>=0.0.9
+pandas>=2.0,<3
+numpy>=1.24,<3
+Pillow>=10,<13

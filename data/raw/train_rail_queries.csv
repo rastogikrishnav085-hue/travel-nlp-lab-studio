@@ -1,0 +1,148 @@
+user_query,intent_label
+i need a rail ticket to Seattle for this Friday,book_train_ticket
+which platform does the Portland train leave from,platform_information
+cancel my train ticket to Portland,cancel_ticket
+i'd like a round trip train ticket from Atlanta to Atlanta,book_train_ticket
+check seat availability for tomorrow,seat_availability
+what is the fare for the Phoenix train,fare_inquiry
+what platform is the the 22nd train to Nashville on,platform_information
+how much does a first class ticket to Miami cost,fare_inquiry
+what are the departure times from Central Station,check_train_schedule
+is there a train to Nashville on this Friday,check_train_schedule
+can i bring a bicycle on the train from Union Station,luggage_policy
+where do i board the train at North Terminal,platform_information
+i want to cancel my rail booking for next week,cancel_ticket
+how much is a ticket from Portland to Seattle,fare_inquiry
+how much is a ticket from Atlanta to Dallas,fare_inquiry
+what is the fare for the Austin train,fare_inquiry
+where do i board the train at South Station,platform_information
+cancel my reservation from Portland to Minneapolis,cancel_ticket
+cancel my reservation from San Diego to San Diego,cancel_ticket
+are there seats available on the next week train to Miami,seat_availability
+cancel my train ticket to Boston,cancel_ticket
+when is the next train to Miami,check_train_schedule
+when is the next train to Portland,check_train_schedule
+do you have first class seats on the Miami train,seat_availability
+show me ticket prices from North Terminal,fare_inquiry
+where do i board the train at Metro Junction,platform_information
+i want to cancel my rail booking for tomorrow,cancel_ticket
+please cancel my seat on the Pittsburgh train,cancel_ticket
+is there a train to Austin on tomorrow,check_train_schedule
+can you book me a train from Boston to Pittsburgh on this weekend,book_train_ticket
+are there seats available on the this weekend train to Pittsburgh,seat_availability
+get me a one-way ticket to Austin,book_train_ticket
+what platform is the next Monday train to Dallas on,platform_information
+which platform does the Seattle train leave from,platform_information
+check seat availability for this weekend,seat_availability
+book a train ticket from Chicago to Portland,book_train_ticket
+reserve a seat on the train to Boston leaving tomorrow,book_train_ticket
+is the train from Pittsburgh to Nashville sold out,seat_availability
+are there seats available on the March 14th train to Dallas,seat_availability
+is there a train to Portland on next Monday,check_train_schedule
+what platform is the this weekend train to Minneapolis on,platform_information
+show me ticket prices from Central Station,fare_inquiry
+show me ticket prices from Riverside Depot,fare_inquiry
+cancel my reservation from Seattle to Chicago,cancel_ticket
+show me the schedule for trains from San Diego to Phoenix,check_train_schedule
+please cancel my seat on the Miami train,cancel_ticket
+which platform does the Phoenix train leave from,platform_information
+i'd like a round trip train ticket from Denver to Boston,book_train_ticket
+book a train ticket from Dallas to Atlanta,book_train_ticket
+i want to cancel my rail booking for this Friday,cancel_ticket
+reserve a seat on the train to Dallas leaving March 14th,book_train_ticket
+is the train from Seattle to Pittsburgh sold out,seat_availability
+check seat availability for June 3rd,seat_availability
+are there seats available on the the 22nd train to Boston,seat_availability
+what time does the train to Miami leave North Terminal,check_train_schedule
+get me a one-way ticket to Miami,book_train_ticket
+i need a rail ticket to Pittsburgh for June 3rd,book_train_ticket
+i want to cancel my rail booking for the 22nd,cancel_ticket
+are there seats available on the tomorrow train to Phoenix,seat_availability
+how much is a ticket from Dallas to Dallas,fare_inquiry
+is the train from Nashville to Minneapolis sold out,seat_availability
+show me the schedule for trains from San Diego to Denver,check_train_schedule
+reserve a seat on the train to Nashville leaving March 14th,book_train_ticket
+show me the schedule for trains from Atlanta to Austin,check_train_schedule
+how much does a first class ticket to Austin cost,fare_inquiry
+can you book me a train from Pittsburgh to Portland on this Friday,book_train_ticket
+reserve a seat on the train to Denver leaving the 22nd,book_train_ticket
+is there a train to Boston on June 3rd,check_train_schedule
+what is the fare for the Seattle train,fare_inquiry
+reserve a seat on the train to Dallas leaving the 22nd,book_train_ticket
+how much is a ticket from Pittsburgh to Phoenix,fare_inquiry
+please cancel my seat on the Minneapolis train,cancel_ticket
+what time does the train to Chicago leave Riverside Depot,check_train_schedule
+how much does a first class ticket to San Diego cost,fare_inquiry
+how much luggage can i bring on the train,luggage_policy
+can you book me a train from Miami to Nashville on next week,book_train_ticket
+cancel my reservation from Atlanta to Nashville,cancel_ticket
+book a train ticket from Nashville to Minneapolis,book_train_ticket
+how much is a ticket from Miami to Pittsburgh,fare_inquiry
+show me ticket prices from Metro Junction,fare_inquiry
+what time does the train to Denver leave Riverside Depot,check_train_schedule
+i'd like a round trip train ticket from Chicago to Nashville,book_train_ticket
+i'd like a round trip train ticket from Atlanta to Dallas,book_train_ticket
+is the train from Pittsburgh to Boston sold out,seat_availability
+show me ticket prices from Union Station,fare_inquiry
+get me a one-way ticket to Boston,book_train_ticket
+what platform is the this weekend train to Miami on,platform_information
+what is the fare for the Atlanta train,fare_inquiry
+do you have first class seats on the Austin train,seat_availability
+can you book me a train from Chicago to Miami on next Monday,book_train_ticket
+do you have first class seats on the Seattle train,seat_availability
+i need a rail ticket to Phoenix for the first of the month,book_train_ticket
+how much does a first class ticket to Phoenix cost,fare_inquiry
+can i bring a bicycle on the train from South Station,luggage_policy
+cancel my train ticket to Nashville,cancel_ticket
+i need a rail ticket to Boston for this weekend,book_train_ticket
+is there a baggage limit for the Pittsburgh train,luggage_policy
+what are the departure times from North Terminal,check_train_schedule
+is there a baggage limit for the Atlanta train,luggage_policy
+what platform is the the first of the month train to Dallas on,platform_information
+do you have first class seats on the Phoenix train,seat_availability
+i'd like a round trip train ticket from Chicago to Miami,book_train_ticket
+reserve a seat on the train to San Diego leaving tomorrow,book_train_ticket
+how much does a first class ticket to Nashville cost,fare_inquiry
+book a train ticket from Minneapolis to Dallas,book_train_ticket
+cancel my reservation from Seattle to Seattle,cancel_ticket
+are there seats available on the June 3rd train to Pittsburgh,seat_availability
+is there a baggage limit for the Portland train,luggage_policy
+can i bring a bicycle on the train from Metro Junction,luggage_policy
+check seat availability for next week,seat_availability
+is the train from Portland to Minneapolis sold out,seat_availability
+i need a rail ticket to Nashville for June 3rd,book_train_ticket
+where do i board the train at Central Station,platform_information
+book a train ticket from San Diego to Dallas,book_train_ticket
+cancel my train ticket to Pittsburgh,cancel_ticket
+is there a train to Miami on tomorrow,check_train_schedule
+what are the departure times from South Station,check_train_schedule
+which platform does the Miami train leave from,platform_information
+i'd like a round trip train ticket from Pittsburgh to Austin,book_train_ticket
+show me the schedule for trains from Seattle to Phoenix,check_train_schedule
+show me the schedule for trains from San Diego to Minneapolis,check_train_schedule
+what is the fare for the Miami train,fare_inquiry
+cancel my reservation from Pittsburgh to Seattle,cancel_ticket
+what platform is the this weekend train to Seattle on,platform_information
+get me a one-way ticket to San Diego,book_train_ticket
+what time does the train to Pittsburgh leave North Terminal,check_train_schedule
+when is the next train to Denver,check_train_schedule
+show me the schedule for trains from Atlanta to Nashville,check_train_schedule
+please cancel my seat on the Chicago train,cancel_ticket
+can you book me a train from Nashville to Denver on this Friday,book_train_ticket
+i need a rail ticket to San Diego for next Monday,book_train_ticket
+what time does the train to Dallas leave Metro Junction,check_train_schedule
+is there a train to Chicago on the 22nd,check_train_schedule
+book a train ticket from Miami to Phoenix,book_train_ticket
+which platform does the Atlanta train leave from,platform_information
+when is the next train to Minneapolis,check_train_schedule
+where do i board the train at Riverside Depot,platform_information
+i want to cancel my rail booking for March 14th,cancel_ticket
+what is the fare for the Portland train,fare_inquiry
+is the train from Minneapolis to Minneapolis sold out,seat_availability
+what are the departure times from Riverside Depot,check_train_schedule
+can you book me a train from Miami to Dallas on next Monday,book_train_ticket
+is there a baggage limit for the Chicago train,luggage_policy
+do you have first class seats on the Minneapolis train,seat_availability
+how much is a ticket from Pittsburgh to Dallas,fare_inquiry
+when is the next train to Dallas,check_train_schedule
+get me a one-way ticket to Minneapolis,book_train_ticket

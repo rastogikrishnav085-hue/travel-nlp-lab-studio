@@ -1,0 +1,11 @@
+# docker compose up --build      then open http://localhost:8501
+services:
+  studio:
+    build: .
+    image: travel-nlp-studio:latest
+    ports:
+      - "8501:8501"
+    volumes:
+      # bundles you copy into ./output (for example from Colab) appear in the Studio's run list
+      - ./output:/app/output
+    restart: unless-stopped

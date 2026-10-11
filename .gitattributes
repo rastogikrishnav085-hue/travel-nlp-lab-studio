@@ -1,0 +1,6 @@
+# Windows batch files must keep CRLF line endings
+*.bat text eol=crlf
+*.zip binary
+*.png binary
+*.woff2 binary
+*.ipynb text eol=lf

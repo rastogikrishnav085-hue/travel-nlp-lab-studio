@@ -1,0 +1,112 @@
+text,label
+show me rental prices in Atlanta,rental_price_inquiry
+what insurance options does Hertz offer,insurance_inquiry
+do i need insurance to rent a compact car,insurance_inquiry
+does Sixt charge for fuel,fuel_policy
+do i need insurance to rent a sedan,insurance_inquiry
+is a sedan available for pickup June 3rd,vehicle_availability
+can i return the sedan in a different city,return_location
+where do i drop off my rental in Portland,return_location
+reserve a sedan from Avis in Nashville,book_rental_car
+is a pickup truck available for pickup tomorrow,vehicle_availability
+show me rental prices in Austin,rental_price_inquiry
+is a sedan available for pickup this weekend,vehicle_availability
+book a sedan rental in Pittsburgh,book_rental_car
+please cancel my car booking for next Monday,cancel_booking
+can i return the car to a different Sixt location,return_location
+show me rental prices in Boston,rental_price_inquiry
+can i return the hatchback in a different city,return_location
+i'd like to rent a pickup truck for the weekend,book_rental_car
+can you get me a rental car in Nashville for 3 days,book_rental_car
+can you get me a rental car in Miami for 7 days,book_rental_car
+do i need to return the compact car with a full tank,fuel_policy
+can i return the car to a different Budget location,return_location
+reserve a hatchback from National in Denver,book_rental_car
+how much does it cost to rent a convertible for 5 days,rental_price_inquiry
+reserve a convertible from Sixt in Denver,book_rental_car
+i need to rent a pickup truck starting this weekend,book_rental_car
+do you have any hatchbacks available in Miami,vehicle_availability
+is a convertible available for pickup March 14th,vehicle_availability
+is a pickup truck available for pickup next Monday,vehicle_availability
+i want to cancel my reservation with Hertz,cancel_booking
+can you get me a rental car in Pittsburgh for 5 days,book_rental_car
+do i need to return the SUV with a full tank,fuel_policy
+book a sedan rental in Boston,book_rental_car
+how much does it cost to rent a sedan for 7 days,rental_price_inquiry
+reserve a hatchback from Enterprise in Nashville,book_rental_car
+do i need insurance to rent a convertible,insurance_inquiry
+what is the daily rate for a pickup truck at Avis,rental_price_inquiry
+cancel my convertible rental in Chicago,cancel_booking
+do you have any compact cars available in Denver,vehicle_availability
+does Budget charge for fuel,fuel_policy
+what is the daily rate for a SUV at Sixt,rental_price_inquiry
+how much does it cost to rent a sedan for 4 days,rental_price_inquiry
+what insurance options does Sixt offer,insurance_inquiry
+do you have any minivans available in Phoenix,vehicle_availability
+i'd like to rent a minivan for the weekend,book_rental_car
+book a SUV rental in Phoenix,book_rental_car
+cancel my sedan rental in Atlanta,cancel_booking
+do i need insurance to rent a minivan,insurance_inquiry
+i want to cancel my reservation with Enterprise,cancel_booking
+can you get me a rental car in Austin for 2 days,book_rental_car
+cancel my pickup truck rental in Portland,cancel_booking
+show me rental prices in Miami,rental_price_inquiry
+check if Avis has a SUV in San Diego,vehicle_availability
+check if Avis has a compact car in Phoenix,vehicle_availability
+can i return the SUV in a different city,return_location
+i want to cancel my reservation with Sixt,cancel_booking
+please cancel my car booking for next week,cancel_booking
+i need to rent a pickup truck starting the 22nd,book_rental_car
+can i return the convertible in a different city,return_location
+do i need to return the hatchback with a full tank,fuel_policy
+what insurance options does Budget offer,insurance_inquiry
+cancel my convertible rental in San Diego,cancel_booking
+where do i drop off my rental in Minneapolis,return_location
+cancel my sedan rental in Portland,cancel_booking
+cancel my hatchback rental in Phoenix,cancel_booking
+reserve a SUV from Sixt in Minneapolis,book_rental_car
+what insurance options does National offer,insurance_inquiry
+book a SUV rental in Minneapolis,book_rental_car
+where do i drop off my rental in Chicago,return_location
+can i return the car to a different Avis location,return_location
+i need to rent a hatchback starting March 14th,book_rental_car
+book a minivan rental in Miami,book_rental_car
+please cancel my car booking for this weekend,cancel_booking
+do i need insurance to rent a hatchback,insurance_inquiry
+i want to cancel my reservation with Budget,cancel_booking
+how much does it cost to rent a sedan for 3 days,rental_price_inquiry
+how much does it cost to rent a hatchback for 2 days,rental_price_inquiry
+is a SUV available for pickup this weekend,vehicle_availability
+what insurance options does Avis offer,insurance_inquiry
+i'd like to rent a SUV for the weekend,book_rental_car
+check if Hertz has a SUV in Atlanta,vehicle_availability
+what is the daily rate for a hatchback at Avis,rental_price_inquiry
+how much does it cost to rent a convertible for 3 days,rental_price_inquiry
+does Hertz charge for fuel,fuel_policy
+check if Hertz has a SUV in San Diego,vehicle_availability
+can you get me a rental car in Seattle for 1 days,book_rental_car
+i need to rent a SUV starting June 3rd,book_rental_car
+check if Hertz has a minivan in Miami,vehicle_availability
+show me rental prices in Minneapolis,rental_price_inquiry
+book a hatchback rental in Phoenix,book_rental_car
+do you have any convertibles available in Miami,vehicle_availability
+i need to rent a SUV starting tomorrow,book_rental_car
+do you have any hatchbacks available in Nashville,vehicle_availability
+can i return the car to a different National location,return_location
+please cancel my car booking for June 3rd,cancel_booking
+i need to rent a pickup truck starting next week,book_rental_car
+what is the fuel policy for my rental,fuel_policy
+please cancel my car booking for the first of the month,cancel_booking
+is collision coverage included with my rental,insurance_inquiry
+what is the daily rate for a convertible at Enterprise,rental_price_inquiry
+where do i drop off my rental in Atlanta,return_location
+reserve a compact car from Enterprise in Minneapolis,book_rental_car
+check if National has a hatchback in Atlanta,vehicle_availability
+do i need to return the minivan with a full tank,fuel_policy
+where do i drop off my rental in Pittsburgh,return_location
+can you get me a rental car in Nashville for 5 days,book_rental_car
+do i need insurance to rent a SUV,insurance_inquiry
+what is the daily rate for a minivan at Avis,rental_price_inquiry
+i'd like to rent a sedan for the weekend,book_rental_car
+what is the daily rate for a SUV at National,rental_price_inquiry
+do you have any compact cars available in Miami,vehicle_availability

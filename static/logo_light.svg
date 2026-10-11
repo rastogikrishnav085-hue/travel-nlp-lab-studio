@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="40" viewBox="0 0 230 40">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5EA8FF"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient></defs>
+  <rect x="1" y="2" width="36" height="36" rx="11" fill="url(#g)"/>
+  <path d="M9 21l20-9-8 18-3-8-9-1z" fill="#04101F"/>
+  <text x="47" y="19" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#15283D">Travel NLP Lab</text>
+  <text x="47" y="34" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11.5" fill="#43576C">Studio · NLP · NLU</text>
+</svg>

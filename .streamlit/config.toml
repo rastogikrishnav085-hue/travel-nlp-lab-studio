@@ -1,0 +1,57 @@
+# Travel NLP Lab Studio: "Night Flight" theme. Everything is served locally (no internet needed).
+[server]
+headless = true      # no first-run e-mail prompt; START.bat opens the browser itself
+address = "127.0.0.1"
+enableStaticServing = true
+maxUploadSize = 100
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#60A5FA"
+backgroundColor = "#071421"
+secondaryBackgroundColor = "#10283B"
+textColor = "#F1F5F9"
+borderColor = "#1F2E4A"
+linkColor = "#7DB8FF"
+font = "Inter"
+headingFont = "Space Grotesk"
+codeFont = "monospace"
+baseRadius = "12px"
+buttonRadius = "12px"
+baseFontSize = 15
+showWidgetBorder = true
+showSidebarBorder = true
+dataframeHeaderBackgroundColor = "#122039"
+chartCategoricalColors = ["#5EA8FF", "#2DD4BF", "#F5B93E", "#FF7A85", "#B39DFF", "#93A6C4"]
+
+[theme.sidebar]
+backgroundColor = "#0A1324"
+secondaryBackgroundColor = "#10283B"
+
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/fonts/inter-latin-400-normal.woff2"
+weight = 400
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/fonts/inter-latin-600-normal.woff2"
+weight = 600
+[[theme.fontFaces]]
+family = "Inter"
+url = "app/static/fonts/inter-latin-700-normal.woff2"
+weight = 700
+[[theme.fontFaces]]
+family = "Space Grotesk"
+url = "app/static/fonts/space-grotesk-latin-500-normal.woff2"
+weight = 500
+[[theme.fontFaces]]
+family = "Space Grotesk"
+url = "app/static/fonts/space-grotesk-latin-700-normal.woff2"
+weight = 700

@@ -1,0 +1,208 @@
+query,category
+does Harbor View have a pool,hotel_amenities
+what amenities are available at Grand Plaza,hotel_amenities
+can you book me a hotel in Pittsburgh for next Monday,book_hotel
+i need a hotel reservation in Dallas starting this weekend,book_hotel
+show me cheap hotel rates in Portland,price_inquiry
+book a room at The Marriott in Dallas for 5 nights,book_hotel
+what are the benefits of Downtown Lodge loyalty membership,loyalty_program
+is there a room available at Harbor View on tomorrow,check_availability
+i need to cancel my Downtown Lodge reservation,cancel_reservation
+i need to cancel my Hilton Garden reservation,cancel_reservation
+i need to extend my stay at Grand Plaza by one night,modify_reservation
+when do i need to check out of The Marriott,checkout_time
+check if Grand Plaza has rooms free for 5 nights,check_availability
+i need to cancel my The Marriott reservation,cancel_reservation
+does the Phoenix hotel have free wifi,hotel_amenities
+what would 2 nights at Lakeside Inn cost,price_inquiry
+find me a room at Grand Plaza for 5 nights starting March 14th,book_hotel
+can i redeem points at The Marriott in Nashville,loyalty_program
+what would 3 nights at Hilton Garden cost,price_inquiry
+cancel my reservation at Harbor View in Portland,cancel_reservation
+what are the benefits of Harbor View loyalty membership,loyalty_program
+can i move my Portland hotel booking to the 22nd,modify_reservation
+how much does a room at Grand Plaza cost,price_inquiry
+what is the checkout policy at Harbor View in Portland,checkout_time
+do i earn points for staying at The Marriott,loyalty_program
+is there a room available at Hilton Garden on tomorrow,check_availability
+i need to extend my stay at Lakeside Inn by one night,modify_reservation
+can i redeem points at Lakeside Inn in Denver,loyalty_program
+is there a room available at Harbor View on June 3rd,check_availability
+how do i join the Lakeside Inn rewards program,loyalty_program
+can you cancel my stay in Boston starting tomorrow,cancel_reservation
+what amenities are available at Downtown Lodge,hotel_amenities
+how do i join the Sunset Resort rewards program,loyalty_program
+push my check-in date at Hilton Garden to the 22nd,modify_reservation
+does Hilton Garden allow pets,hotel_amenities
+do i earn points for staying at Hilton Garden,loyalty_program
+i need a hotel reservation in Seattle starting tomorrow,book_hotel
+how do i join the Hilton Garden rewards program,loyalty_program
+does Riverside Suites allow pets,hotel_amenities
+is breakfast included at Hilton Garden in Austin,hotel_amenities
+switch my room at Hilton Garden to a suite,modify_reservation
+does Downtown Lodge have a pool,hotel_amenities
+can you cancel my stay in Pittsburgh starting next week,cancel_reservation
+reserve a double room at Sunset Resort near downtown Portland,book_hotel
+find me a room at Sunset Resort for 2 nights starting next Monday,book_hotel
+get me a king room at Sunset Resort in Boston,book_hotel
+cancel my reservation at Harbor View in Boston,cancel_reservation
+how much does a room at Lakeside Inn cost,price_inquiry
+i'd like to stay at The Marriott in Boston over the weekend,book_hotel
+what would 1 nights at Downtown Lodge cost,price_inquiry
+i'd like to stay at The Marriott in Miami over the weekend,book_hotel
+reserve a double room at Lakeside Inn near downtown Seattle,book_hotel
+is breakfast included at Lakeside Inn in Austin,hotel_amenities
+is there a room available at The Marriott on this Friday,check_availability
+show me cheap hotel rates in Nashville,price_inquiry
+find me a room at Riverside Suites for 5 nights starting March 14th,book_hotel
+can you book me a hotel in Pittsburgh for next week,book_hotel
+does Lakeside Inn have a pool,hotel_amenities
+what amenities are available at Sunset Resort,hotel_amenities
+do you have any vacancies in Dallas for this weekend,check_availability
+show me cheap hotel rates in Pittsburgh,price_inquiry
+can you cancel my stay in San Diego starting this Friday,cancel_reservation
+how much is a suite at Harbor View,price_inquiry
+is there a room available at The Marriott on next week,check_availability
+get me a king room at Grand Plaza in Austin,book_hotel
+are there open rooms at The Marriott this weekend,check_availability
+what is the checkout policy at The Marriott in Dallas,checkout_time
+i want to cancel my hotel booking for Pittsburgh,cancel_reservation
+when do i need to check out of Riverside Suites,checkout_time
+how much is a suite at Sunset Resort,price_inquiry
+switch my room at Lakeside Inn to a suite,modify_reservation
+is breakfast included at Harbor View in Denver,hotel_amenities
+do you have any vacancies in Phoenix for March 14th,check_availability
+does Sunset Resort allow pets,hotel_amenities
+get me a king room at The Marriott in Denver,book_hotel
+do i earn points for staying at Lakeside Inn,loyalty_program
+can i move my San Diego hotel booking to the 22nd,modify_reservation
+check if Sunset Resort has rooms free for 4 nights,check_availability
+do you have any vacancies in Denver for the 22nd,check_availability
+i want to cancel my hotel booking for Austin,cancel_reservation
+check if Downtown Lodge has rooms free for 1 nights,check_availability
+book a room at Harbor View in Portland for 3 nights,book_hotel
+reserve a double room at Sunset Resort near downtown Denver,book_hotel
+how much does a room at Riverside Suites cost,price_inquiry
+can i redeem points at Sunset Resort in Miami,loyalty_program
+what is the checkout policy at Sunset Resort in Pittsburgh,checkout_time
+does the Miami hotel have free wifi,hotel_amenities
+switch my room at Sunset Resort to a suite,modify_reservation
+can you cancel my stay in Seattle starting tomorrow,cancel_reservation
+i need to cancel my Grand Plaza reservation,cancel_reservation
+find me a room at Riverside Suites for 1 nights starting next Monday,book_hotel
+check if The Marriott has rooms free for 4 nights,check_availability
+get me a king room at Grand Plaza in Boston,book_hotel
+i want to cancel my hotel booking for Denver,cancel_reservation
+can i get a late checkout at Downtown Lodge,checkout_time
+i need to extend my stay at Sunset Resort by one night,modify_reservation
+i need a hotel reservation in Nashville starting June 3rd,book_hotel
+push my check-in date at Grand Plaza to next week,modify_reservation
+can i get a late checkout at Hilton Garden,checkout_time
+does Harbor View allow pets,hotel_amenities
+change my reservation at Sunset Resort to 5 nights,modify_reservation
+when do i need to check out of Hilton Garden,checkout_time
+does The Marriott have a pool,hotel_amenities
+i need a hotel reservation in Seattle starting next Monday,book_hotel
+check if Lakeside Inn has rooms free for 1 nights,check_availability
+can i move my Chicago hotel booking to next week,modify_reservation
+does the Pittsburgh hotel have free wifi,hotel_amenities
+does the Portland hotel have free wifi,hotel_amenities
+find me a room at Riverside Suites for 5 nights starting this Friday,book_hotel
+book a room at Grand Plaza in Denver for 2 nights,book_hotel
+get me a king room at Harbor View in Boston,book_hotel
+i want to cancel my hotel booking for San Diego,cancel_reservation
+can i move my Pittsburgh hotel booking to March 14th,modify_reservation
+what time is checkout at Downtown Lodge,checkout_time
+are there open rooms at Lakeside Inn this weekend,check_availability
+is there a gym at Sunset Resort,hotel_amenities
+please cancel the room i booked at Riverside Suites,cancel_reservation
+push my check-in date at Harbor View to this weekend,modify_reservation
+what time is checkout at Riverside Suites,checkout_time
+cancel my reservation at Riverside Suites in Phoenix,cancel_reservation
+what is the nightly rate at Harbor View in Seattle,price_inquiry
+i want to cancel my hotel booking for Seattle,cancel_reservation
+show me cheap hotel rates in Atlanta,price_inquiry
+can you cancel my stay in Denver starting next Monday,cancel_reservation
+reserve a double room at Harbor View near downtown Austin,book_hotel
+what amenities are available at Hilton Garden,hotel_amenities
+please cancel the room i booked at Downtown Lodge,cancel_reservation
+can you book me a hotel in Austin for March 14th,book_hotel
+is breakfast included at Sunset Resort in Chicago,hotel_amenities
+do i earn points for staying at Sunset Resort,loyalty_program
+what time is checkout at Grand Plaza,checkout_time
+can i move my Minneapolis hotel booking to March 14th,modify_reservation
+check if Sunset Resort has rooms free for 2 nights,check_availability
+what would 4 nights at Hilton Garden cost,price_inquiry
+reserve a double room at Sunset Resort near downtown Atlanta,book_hotel
+reserve a double room at Harbor View near downtown San Diego,book_hotel
+cancel my reservation at Sunset Resort in Chicago,cancel_reservation
+show me cheap hotel rates in San Diego,price_inquiry
+is breakfast included at Grand Plaza in Chicago,hotel_amenities
+can you book me a hotel in Phoenix for this Friday,book_hotel
+how much is a suite at Grand Plaza,price_inquiry
+does the Boston hotel have free wifi,hotel_amenities
+how do i join the The Marriott rewards program,loyalty_program
+change my reservation at Grand Plaza to 4 nights,modify_reservation
+i'd like to stay at Lakeside Inn in Seattle over the weekend,book_hotel
+what is the nightly rate at Harbor View in Minneapolis,price_inquiry
+i'd like to stay at Riverside Suites in Phoenix over the weekend,book_hotel
+what is the nightly rate at Grand Plaza in Pittsburgh,price_inquiry
+what is the checkout policy at Grand Plaza in Boston,checkout_time
+what is the checkout policy at The Marriott in Minneapolis,checkout_time
+is breakfast included at The Marriott in Dallas,hotel_amenities
+can i redeem points at Harbor View in Phoenix,loyalty_program
+do you have any vacancies in Miami for this weekend,check_availability
+what is the nightly rate at Grand Plaza in Seattle,price_inquiry
+what would 2 nights at The Marriott cost,price_inquiry
+can i redeem points at Harbor View in Pittsburgh,loyalty_program
+how do i join the Riverside Suites rewards program,loyalty_program
+can you cancel my stay in Portland starting next Monday,cancel_reservation
+i'd like to stay at Lakeside Inn in Denver over the weekend,book_hotel
+i need a hotel reservation in Denver starting March 14th,book_hotel
+what are the benefits of Lakeside Inn loyalty membership,loyalty_program
+change my reservation at Grand Plaza to 1 nights,modify_reservation
+what are the benefits of Hilton Garden loyalty membership,loyalty_program
+push my check-in date at Lakeside Inn to this Friday,modify_reservation
+what would 1 nights at Lakeside Inn cost,price_inquiry
+does Grand Plaza have a pool,hotel_amenities
+how much does a room at Downtown Lodge cost,price_inquiry
+book a room at Grand Plaza in Atlanta for 4 nights,book_hotel
+i need to extend my stay at The Marriott by one night,modify_reservation
+can i redeem points at Downtown Lodge in Minneapolis,loyalty_program
+switch my room at Harbor View to a suite,modify_reservation
+is there a gym at The Marriott,hotel_amenities
+book a room at Harbor View in Chicago for 1 nights,book_hotel
+get me a king room at Downtown Lodge in San Diego,book_hotel
+can i get a late checkout at Grand Plaza,checkout_time
+i'd like to stay at Riverside Suites in Seattle over the weekend,book_hotel
+are there open rooms at Sunset Resort this weekend,check_availability
+what is the nightly rate at Downtown Lodge in Phoenix,price_inquiry
+please cancel the room i booked at Hilton Garden,cancel_reservation
+change my reservation at The Marriott to 2 nights,modify_reservation
+cancel my reservation at Sunset Resort in Minneapolis,cancel_reservation
+can you book me a hotel in Boston for the 22nd,book_hotel
+i need a hotel reservation in Denver starting the 22nd,book_hotel
+please cancel the room i booked at The Marriott,cancel_reservation
+can i move my Portland hotel booking to next week,modify_reservation
+book a room at Downtown Lodge in Atlanta for 1 nights,book_hotel
+what time is checkout at The Marriott,checkout_time
+is there a gym at Lakeside Inn,hotel_amenities
+what amenities are available at Lakeside Inn,hotel_amenities
+when do i need to check out of Downtown Lodge,checkout_time
+change my reservation at Lakeside Inn to 7 nights,modify_reservation
+how much is a suite at Downtown Lodge,price_inquiry
+is there a gym at Hilton Garden,hotel_amenities
+cancel my reservation at The Marriott in Boston,cancel_reservation
+are there open rooms at Hilton Garden this weekend,check_availability
+push my check-in date at Grand Plaza to June 3rd,modify_reservation
+change my reservation at Lakeside Inn to 2 nights,modify_reservation
+can you book me a hotel in Nashville for June 3rd,book_hotel
+does Downtown Lodge allow pets,hotel_amenities
+what is the checkout policy at Riverside Suites in Portland,checkout_time
+push my check-in date at Grand Plaza to this weekend,modify_reservation
+do you have any vacancies in Minneapolis for the first of the month,check_availability
+what is the nightly rate at Sunset Resort in Pittsburgh,price_inquiry
+i need to cancel my Harbor View reservation,cancel_reservation
+find me a room at Grand Plaza for 2 nights starting next week,book_hotel
+do i earn points for staying at Harbor View,loyalty_program
+when do i need to check out of Sunset Resort,checkout_time
