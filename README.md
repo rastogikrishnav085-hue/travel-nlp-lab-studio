@@ -1,7 +1,23 @@
 # Travel Query Intent Classification Using NLP
 
-**Travel NLP Lab Studio 4.3.1.** A Google Colab notebook trains and evaluates the intent classifier. A local Streamlit app opens the
-finished run, re-checks it, and explains the results: data, models, confusion matrix, mistakes, confidence, a unified Model Lab with live query classification and autocomplete. Everything runs on your computer; no cloud or AI services are used.
+<p align="center">
+  <strong>Travel NLP Lab Studio</strong><br>
+  An interactive dashboard for travel-query intent classification, dataset exploration, model evaluation, and prediction analysis.
+</p>
+
+<p align="center">
+  <a href="https://travel-nlp-lab-studio-hrppzgh9ktberkcxeseob5.streamlit.app/"><strong>🚀 Open Live Demo</strong></a>
+  ·
+  <a href="https://colab.research.google.com/github/rastogikrishnav085-hue/travel-nlp-lab-studio/blob/main/notebooks/ATIS_Complete_Pipeline.ipynb">Open Notebook in Colab</a>
+</p>
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://travel-nlp-lab-studio-hrppzgh9ktberkcxeseob5.streamlit.app/)
+
+**Travel NLP Lab Studio 4.3.1** combines a Google Colab training workflow with a Streamlit dashboard. Explore datasets, inspect model evaluation results, review confusion matrices and classification errors, and try travel-query classification with autocomplete.
+
+The hosted demo runs online. You can also run the application locally. Model results are read from run bundles; the dashboard does not retrain models when opened.
+
+**Step-by-step guide:** [HOW_IT_WORKS.md](HOW_IT_WORKS.md)
 
 **Full step-by-step guide: [HOW_IT_WORKS.md](HOW_IT_WORKS.md)**
 
